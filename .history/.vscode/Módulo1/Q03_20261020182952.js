@@ -1,0 +1,2 @@
+const codigos = [27, 97, 27, 8, 43, 9, 78, 50, 9, 27];
+const codigoEspecifico

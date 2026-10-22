@@ -1,0 +1,3 @@
+function calibrarPneumatica(pressao, vazao, ) {
+    
+}

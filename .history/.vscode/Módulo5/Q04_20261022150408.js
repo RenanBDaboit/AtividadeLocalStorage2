@@ -1,0 +1,3 @@
+function calibrar(params) {
+    
+}

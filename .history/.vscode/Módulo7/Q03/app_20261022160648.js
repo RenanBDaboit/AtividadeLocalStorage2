@@ -1,0 +1,1 @@
+const nomeInput = document.getElementById

@@ -1,0 +1,11 @@
+p {
+    color: #333333;
+}
+
+p.alerta {
+    color: red;
+}
+
+p.normal {
+    color: ;
+}

@@ -1,0 +1,10 @@
+const contador = document.getElementById('contador');
+const btnProduzir = document.getElementById('btnProduzir');
+
+btnProduzir.addEventListener('click', () => {
+    const valor = contador.value();
+
+    valor++;
+
+    contador.textContent = valor;
+})

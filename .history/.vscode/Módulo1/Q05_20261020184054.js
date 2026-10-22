@@ -1,0 +1,1 @@
+const insumos = ['Aço', 'Alumínio' e 'Cobre]

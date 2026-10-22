@@ -1,0 +1,11 @@
+const configPadrao =  { 
+    velocidade: 100, 
+    modoSeguranca: true, 
+    idioma: 'PT' 
+}
+
+const configPersonalizada = {
+    ...configPadrao.velocidade = 150
+}
+
+console.log(configPersonalizada);

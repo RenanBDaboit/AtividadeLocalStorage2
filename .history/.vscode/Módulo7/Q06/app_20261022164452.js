@@ -1,0 +1,3 @@
+const btnFiltro = document.getElementById('btnFiltro');
+const filtroModulo = document.getElementById('filtroModulo');
+const lista = document.getElementById

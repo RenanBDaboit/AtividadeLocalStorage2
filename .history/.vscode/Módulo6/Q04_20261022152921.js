@@ -1,0 +1,3 @@
+const gerador = {
+    id: 
+}

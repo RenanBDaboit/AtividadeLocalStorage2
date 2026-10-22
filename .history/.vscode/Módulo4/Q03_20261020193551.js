@@ -1,0 +1,7 @@
+const almoxarifado = [
+    {
+        ferramenta: {
+            nome: 
+        }
+    }
+]

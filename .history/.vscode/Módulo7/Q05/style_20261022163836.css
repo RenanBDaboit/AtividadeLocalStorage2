@@ -1,0 +1,7 @@
+.item {
+    text-decoration: line-through;
+}
+
+.item.concluido {
+    text-decoration: line-through;
+}

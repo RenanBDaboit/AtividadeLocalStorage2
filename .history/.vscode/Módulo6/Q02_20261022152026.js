@@ -1,0 +1,4 @@
+function contrutor(id, capacidade) {
+    
+}
+

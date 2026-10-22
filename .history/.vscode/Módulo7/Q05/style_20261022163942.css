@@ -1,0 +1,7 @@
+.item {
+    text-decoration: none;
+}
+
+.item.concluido {
+    text-decoration: dotted;
+}

@@ -1,0 +1,3 @@
+const Injetora = (id, capacidadeToneladas) => {
+
+}

@@ -1,0 +1,27 @@
+const maquina = {
+    nome: 'Motor trifásico',
+    historicoManutencao: [
+        {
+            data: '08/12/2026',
+            tecnico: 'Renan',
+            tipo: 'Restauração total'
+        }, 
+        {
+            data: '19/03/2009',
+            tecnico: 'Patricia',
+            tipo: 'Limpeza'
+        }, 
+        {
+            data: '14/07/1990',
+            tecnico: 'Nathan',
+            tipo: 'Limpeza'
+        }, 
+        {
+            data: '09/01/2030',
+            tecnico: 'Murilo',
+            tipo: 'Organização'
+        }
+    ]
+}
+
+console.log(`Manutenção: Data - ${maquina.historicoManutencao[maquina.historicoManutencao.length - 1].} | Técnico - ${maquina.historicoManutencao[maquina.historicoManutencao.length - 1].tecnico} `);
